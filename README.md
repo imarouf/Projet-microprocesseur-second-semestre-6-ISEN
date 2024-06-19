@@ -12,7 +12,7 @@ Pour le projet de microprocesseur de second semestre, nous avons développé **P
 Nous avions à disposition **la carte Isen32**, une carte de développement pour microcontrôleurs ARM 32 bits. Cette carte est dédiée à l'apprentissage et à la réalisation d'applications utilisant la famille de modules embarqués **STM32 Nucleo** de ST Microelectronics.
 
 <p align="center">
-  <img src="ImagesSTM32/CarteIsen32.png" alt="Logo de PodoMétéo">
+  <img src="ImagesSTM32/CarteIsen32.png" alt="Carte Isen 32">
 </p>
 
 
@@ -47,7 +47,7 @@ Nous disposons des composants suivants pour réaliser ce projet :
   - **Capteur HTS221** : Capteur d'humidité et de température pour la surveillance des conditions ambiantes.
 
 <p align="center">
-  <img src="ImagesSTM32/IKS01A3.png" alt="Logo de PodoMétéo">
+  <img src="ImagesSTM32/IKS01A3.jpg" alt="IKS01A3">
 </p>
 
 
@@ -60,7 +60,7 @@ L'utilisateur pourra effectuer les actions suivantes sur la carte :
 - **Potentiomètre :** Permet de régler la luminosité de l'afficheur.
 
 <p align="center">
-  <img src="ImagesSTM32/CompositionIsen32.png" alt="Logo de PodoMétéo">
+  <img src="ImagesSTM32/CompositionIsen32.png" alt="Composition de la carte ISEN32">
 </p>
 
 
