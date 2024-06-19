@@ -7,7 +7,9 @@ Pour le projet de microprocesseur de second semestre, nous avons développé **P
 ![Logo de PodoMétéo](ImagesSTM32/logo_PodoMeteo.png)
 
 Nous avions à disposition **la carte Isen32**, une carte de développement pour microcontrôleurs ARM 32 bits. Cette carte est dédiée à l'apprentissage et à la réalisation d'applications utilisant la famille de modules embarqués **STM32 Nucleo** de ST Microelectronics.
+
 ![Carte Isen 32](ImagesSTM32/CarteIsen32.png)
+
 En plus de cela, nous avions aussi le **shield IKS01A3**, un module s'implémentant sur notre carte **STM Nucleo L152-RE**. Il permet d'avoir plusieurs fonctionnalités et capteurs, que nous détaillerons plus tard.
 
 ### Description
@@ -47,6 +49,7 @@ L'utilisateur pourra effectuer les actions suivantes sur la carte :
 - **Bouton 3 (BTN_3):** Affiche l'humidité.
 - **Bouton 4 (BTN_4):** Affiche la température.
 - **Potentiomètre :** Permet de régler la luminosité de l'afficheur.
+
 ![Carte Isen 32](ImagesSTM32/CompositionIsen32.png)
 
 ---
