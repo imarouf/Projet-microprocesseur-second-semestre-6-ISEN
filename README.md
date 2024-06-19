@@ -8,7 +8,7 @@ Pour le projet de microprocesseur de second semestre, nous avons développé **P
 
 Nous avions à disposition **la carte Isen32**, une carte de développement pour microcontrôleurs ARM 32 bits. Cette carte est dédiée à l'apprentissage et à la réalisation d'applications utilisant la famille de modules embarqués **STM32 Nucleo** de ST Microelectronics.
 
-En plus de cela, nous avions aussi le **shield IKS01A3**, un module s'implémentant sur notre carte **STM Nucleo L152-RE**. Il permet d'avoir plusieurs fonctionnalités et capteurs. Nous détaillerons ceela plus tard.
+En plus de cela, nous avions aussi le **shield IKS01A3**, un module s'implémentant sur notre carte **STM Nucleo L152-RE**. Il permet d'avoir plusieurs fonctionnalités et capteurs, que nous détaillerons plus tard.
 
 ### Description
 
@@ -29,11 +29,24 @@ En plus de cela, nous avions aussi le **shield IKS01A3**, un module s'implément
 
 Nous espérons que **PodoMétéo** sera un atout précieux pour améliorer la performance et le bien-être des athlètes.
 
-### Explication du fonctionnement
+### Explication du Fonctionnement
 
 Nous disposons des composants suivants pour réaliser ce projet :
 
 - **Carte Isen32** : Plateforme de développement basée sur les microcontrôleurs ARM 32 bits.
 - **Shield IKS01A3** : Module de capteurs ajoutant des fonctionnalités de mesure environnementale et d'activité physique.
-  - **Capteur LIS2DW12** : Accéléromètre 3 axes pour le suivi des pas.
+  - **Capteur LIS2DW12** : Accéléromètre 3 axes MEMS (capacitifs) pour le suivi des pas.
   - **Capteur HTS221** : Capteur d'humidité et de température pour la surveillance des conditions ambiantes.
+
+### Interface Utilisateur
+
+L'utilisateur pourra effectuer les actions suivantes sur la carte :
+
+- **Bouton 1 :** Affiche l'humidité.
+- **Bouton 2 :** Affiche la température.
+- **Bouton 3 :** Affiche le nombre de pas.
+- **Potentiomètre :** Permet de régler la luminosité de l'afficheur.
+
+---
+
+Nous espérons que **PodoMétéo** sera un outil précieux pour améliorer la performance et le bien-être des athlètes.
