@@ -4,7 +4,10 @@
 
 Pour le projet de microprocesseur de second semestre, nous avons développé **PodoMétéo**.
 
-![Logo de PodoMétéo](ImagesSTM32/logo_PodoMeteo.png)
+<p align="center">
+  <img src="ImagesSTM32/logo_PodoMeteo.png" alt="Logo de PodoMétéo">
+</p>
+
 
 Nous avions à disposition **la carte Isen32**, une carte de développement pour microcontrôleurs ARM 32 bits. Cette carte est dédiée à l'apprentissage et à la réalisation d'applications utilisant la famille de modules embarqués **STM32 Nucleo** de ST Microelectronics.
 
