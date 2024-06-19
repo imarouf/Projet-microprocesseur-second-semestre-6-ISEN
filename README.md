@@ -4,10 +4,10 @@
 
 Pour le projet de microprocesseur de second semestre, nous avons développé **PodoMétéo**.
 
-![Logo de PodoMétéo](C:\Users\ilyes\Bureau\Images\logo_PodoMeteo.png)
+![Logo de PodoMétéo](Images\logo_PodoMeteo.png)
 
 Nous avions à disposition **la carte Isen32**, une carte de développement pour microcontrôleurs ARM 32 bits. Cette carte est dédiée à l'apprentissage et à la réalisation d'applications utilisant la famille de modules embarqués **STM32 Nucleo** de ST Microelectronics.
-
+![Carte Isen 32](Images\CarteIsen32.png)
 En plus de cela, nous avions aussi le **shield IKS01A3**, un module s'implémentant sur notre carte **STM Nucleo L152-RE**. Il permet d'avoir plusieurs fonctionnalités et capteurs, que nous détaillerons plus tard.
 
 ### Description
@@ -37,15 +37,17 @@ Nous disposons des composants suivants pour réaliser ce projet :
 - **Shield IKS01A3** : Module de capteurs ajoutant des fonctionnalités de mesure environnementale et d'activité physique.
   - **Capteur LIS2DW12** : Accéléromètre 3 axes MEMS (capacitifs) pour le suivi des pas.
   - **Capteur HTS221** : Capteur d'humidité et de température pour la surveillance des conditions ambiantes.
+ 
+![Shield IKS01A3](Images\IKS01A3.jpg)
 
 ### Interface Utilisateur
 
 L'utilisateur pourra effectuer les actions suivantes sur la carte :
-
-- **Bouton 1 :** Affiche l'humidité.
-- **Bouton 2 :** Affiche la température.
-- **Bouton 3 :** Affiche le nombre de pas.
+- **Bouton 2 (BTN_2) :** Affiche le nombre de pas. 
+- **Bouton 3 (BTN_3):** Affiche l'humidité.
+- **Bouton 4 (BTN_4):** Affiche la température.
 - **Potentiomètre :** Permet de régler la luminosité de l'afficheur.
+![Carte Isen 32](Images\CompositionIsen32.png)
 
 ---
 
