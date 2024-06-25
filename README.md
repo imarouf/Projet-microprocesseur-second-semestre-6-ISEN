@@ -55,11 +55,19 @@ Nous disposons des composants suivants pour réaliser ce projet :
 
 L'utilisateur pourra effectuer les actions suivantes sur la carte :
 - **Bouton 2 (BTN_2) :** Affiche le nombre de pas.
-![Nombre de pas](ImagesSTM32/nombre_de_pas.jpg)
+
+<p>
+  <img src="ImagesSTM32/nombre_de_pas.jpg" alt="Logo de PodoMétéo">
+</p>
+(ImagesSTM32/nombre_de_pas.jpg)
 - **Bouton 3 (BTN_3):** Affiche l'humidité.
-![Humidité](ImagesSTM32/Humidite.jpg)
+<p>
+  <img src="ImagesSTM32/Humidite.jpg" alt="Logo de PodoMétéo">
+</p>
 - **Bouton 4 (BTN_4):** Affiche la température.
-![Température](ImagesSTM32/Temperature.jpg)
+<p>
+  <img src="ImagesSTM32/Temperature.jpg" alt="Logo de PodoMétéo">
+</p>
 - **Potentiomètre :** Permet de régler la luminosité de l'afficheur.
 
 <p align="center">
