@@ -59,11 +59,12 @@ L'utilisateur pourra effectuer les actions suivantes sur la carte :
 <p>
   <img src="ImagesSTM32/nombre_de_pas.jpg" alt="nombre de pas">
 </p>
-(ImagesSTM32/nombre_de_pas.jpg)
+
 - **Bouton 3 (BTN_3):** Affiche l'humidité.
 <p>
   <img src="ImagesSTM32/Humidite.jpg" alt="humidité">
 </p>
+
 - **Bouton 4 (BTN_4):** Affiche la température.
 <p>
   <img src="ImagesSTM32/Temperature.jpg" alt="Température">
