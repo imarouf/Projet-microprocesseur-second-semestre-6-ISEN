@@ -54,9 +54,12 @@ Nous disposons des composants suivants pour réaliser ce projet :
 ### Interface Utilisateur
 
 L'utilisateur pourra effectuer les actions suivantes sur la carte :
-- **Bouton 2 (BTN_2) :** Affiche le nombre de pas. 
+- **Bouton 2 (BTN_2) :** Affiche le nombre de pas.
+![Nombre de pas](ImagesSTM32/nombre_de_pas.jpg)
 - **Bouton 3 (BTN_3):** Affiche l'humidité.
+![Humidité](ImagesSTM32/Humidite.jpg)
 - **Bouton 4 (BTN_4):** Affiche la température.
+![Température](ImagesSTM32/Temperature.jpg)
 - **Potentiomètre :** Permet de régler la luminosité de l'afficheur.
 
 <p align="center">
